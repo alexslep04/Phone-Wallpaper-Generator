@@ -4,7 +4,7 @@
 import openai
 import requests
 
-openai.api_key = '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'
+openai.api_key = ''
 
 
 class promptlist:
